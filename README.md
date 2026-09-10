@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Moez 👋
+# Hi, I'm Abdul Moez👋
 
 ### Manual QA Engineer | Web, Mobile & SaaS Testing
 
