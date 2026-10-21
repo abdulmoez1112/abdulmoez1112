@@ -24,7 +24,7 @@ I focus on finding functional bugs, broken workflows, edge cases, usability prob
 - Test Case Design
 - Test Planning
 
-## 🤖 AI-Assisted QA & Prompt Engineering  [NEW]
+## 🤖 AI-Assisted QA & Prompt Engineering
 
 - Prompt engineering for QA workflows with Claude and ChatGPT
 - Reusable prompt libraries for test case generation, edge-case discovery, and bug triage
@@ -41,7 +41,7 @@ I focus on finding functional bugs, broken workflows, edge cases, usability prob
 - Apache JMeter
 - Google Sheets / Excel
 
-**AI Tools**  [NEW]
+**AI Tools**
 - Claude
 - ChatGPT
 
@@ -85,7 +85,7 @@ Every confirmed issue is documented with:
 
 My pinned qa-portfolio repository shows real QA work: test plans, test cases, bug reports, regression checklists, API testing notes, and my Claude prompt library for QA.
 
-## 🚀 Currently Learning  [CHANGED]
+## 🚀 Currently Learning
 
 - Playwright
 - Test Automation Fundamentals
