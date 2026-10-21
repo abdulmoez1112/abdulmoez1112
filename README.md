@@ -1,10 +1,10 @@
 # Hi, I'm Abdul Moez👋
 
-### Manual QA Engineer | Web, Mobile & SaaS Testing
+### Manual QA Engineer | Web, Mobile & SaaS Testing | Prompt Engineering (Claude)
 
-I’m a Manual QA Engineer with 3+ years of hands-on experience testing web applications, mobile apps, SaaS platforms, dashboards, marketplaces, and multi-user systems.
+I'm a Manual QA Engineer with 3+ years of hands-on experience testing web applications, mobile apps, SaaS platforms, dashboards, marketplaces, and multi-user systems.
 
-I focus on finding functional bugs, broken workflows, edge cases, usability problems, and regressions before they affect real users.
+I focus on finding functional bugs, broken workflows, edge cases, usability problems, and regressions before they affect real users. I also build prompt libraries that let AI tools (Claude, ChatGPT) speed up test design and documentation, with every AI output verified by hand.
 
 ## 🔍 QA Expertise
 
@@ -24,6 +24,14 @@ I focus on finding functional bugs, broken workflows, edge cases, usability prob
 - Test Case Design
 - Test Planning
 
+## 🤖 AI-Assisted QA & Prompt Engineering  [NEW]
+
+- Prompt engineering for QA workflows with Claude and ChatGPT
+- Reusable prompt libraries for test case generation, edge-case discovery, and bug triage
+- AI-assisted test planning and regression scoping, always verified manually
+- Turning repeated QA tasks (checklists, bug report drafts, test data ideas) into saved prompts
+- See my prompt library in the qa-portfolio repo
+
 ## 🛠 Tools & Technologies
 
 **Testing & QA**
@@ -32,6 +40,10 @@ I focus on finding functional bugs, broken workflows, edge cases, usability prob
 - Browser DevTools
 - Apache JMeter
 - Google Sheets / Excel
+
+**AI Tools**  [NEW]
+- Claude
+- ChatGPT
 
 **Platforms**
 - Web Applications
@@ -71,25 +83,13 @@ Every confirmed issue is documented with:
 
 ## 📂 QA Portfolio
 
-My GitHub repositories showcase practical QA work including:
+My pinned qa-portfolio repository shows real QA work: test plans, test cases, bug reports, regression checklists, API testing notes, and my Claude prompt library for QA.
 
-- Test Plans
-- Test Cases
-- Bug Reports
-- Regression Checklists
-- Exploratory Testing
-- API Testing with Postman
-- Mobile App Testing
-- Website & SaaS QA
-
-## 🚀 Currently Learning
-
-I’m continuously improving my technical QA skills, including:
+## 🚀 Currently Learning  [CHANGED]
 
 - Playwright
 - Test Automation Fundamentals
-- AI-assisted QA Workflows
 
 ## 🤝 Open to QA Opportunities
 
-I’m interested in manual QA, web and mobile testing, SaaS testing, API testing, regression testing, and ongoing product QA work.
+I'm interested in manual QA, web and mobile testing, SaaS testing, API testing, regression testing, and ongoing product QA work.
